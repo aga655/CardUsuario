@@ -1,0 +1,32 @@
+  .card {
+    background-color: #e3d2b6;
+    border-radius: 10px;
+    width: 250px;
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    transform: scale(1.1);
+  }
+  
+  .nome {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #333333;
+    margin-bottom: 10px;
+  }
+  
+  .imagem {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 10px;
+  }
+  
+  p {
+    font-size: 1em;
+    color: #555555;
+    margin: 0;
+  }
