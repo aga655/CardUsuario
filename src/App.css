@@ -15,7 +15,7 @@
 
 .cards {
   display: flex;
-  flex-wrap: wrap; //quebrar a linha 
+  flex-wrap: wrap; /*quebrar a linha*/
   gap: 20px;
   width: 70%;
 }
