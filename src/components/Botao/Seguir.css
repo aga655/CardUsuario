@@ -1,13 +1,13 @@
 .Seguir{
     button{
-        color: white;
-        background-color: rgb(111, 0, 255);
-    }
-}
+        color: rgb(45, 55, 83);
+        background-color: rgb(143, 163, 205);
+    } 
+} 
 
 .Seguindo{ 
     button{
-    color: white;
-    background-color: rgb(255, 0, 225);
+    color: rgb(38, 75, 75);
+    background-color: rgb(139, 218, 218);
 }
 }
